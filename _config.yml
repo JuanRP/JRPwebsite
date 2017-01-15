@@ -1,0 +1,18 @@
+# site settings
+title: the Data Science & Big Data way
+email: rggiopje@gmail.com
+
+# descripction - this means to ignore newlines until "baseurl:"
+description: > 
+ site to show the way to becoming a DATA SCIENTIFIC
+
+# baseurl - the subpath of your site, e.g. /blog/
+baseurl: "/JRPwebsite" #
+# url - the base hostname & protocol for your site
+url: "localhost:4000" 
+
+twitter_username: "JuanRaggioPerez"
+github_username:  "JuanRP"
+
+# Build settings
+markdown: kramdown
